@@ -1,0 +1,8 @@
+{
+"user" : "<MongoDB user>",
+"pass" : "<MongoDB password>",
+"address" : "<MongoDB address>",
+"dbName" : "<MongoDB database name>",
+"executor_address": "<Executor service address>",
+"jwt_key": "<JWT secret key>"
+}
