@@ -24,9 +24,11 @@ assignments.**
 - **Amazon Web Services** - hosts the platform and ensures scalability
 
 ## Pictures
+<p float="left">
 <img src="pics/main.png" width="45%" />
 <img src="pics/coding.png" width="45%"/>
-<br>
+</p>
+<p float="left">
 <img src="pics/group.png" width="45%" />
 <img src="pics/task-creation.png" width="45%"/>
 </p>
